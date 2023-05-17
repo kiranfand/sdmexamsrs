@@ -1,0 +1,38 @@
+
+Q2
+Functional requirements 
+
+Employee Recruitment System
+
+
+1. System Features and Requirements
+
+The system should provide functionality for managing job postings.
+HR personnel can create new job postings with details such as title, description, requirements, and deadline.
+Job postings should be categorized by departments or job types.
+
+2 Candidate Database
+
+The system should maintain a database for storing candidate profiles and application information.
+The system should allow candidates to create profiles with their personal and professional information.
+HR personnel can search and filter candidate profiles based on various criteria.
+HR personnel can view detailed
+candidate profiles.
+
+
+3 Application Tracking
+
+The system should allow HR personnel to track the status of candidate applications.
+HR personnel can mark applications as received, under review, shortlisted, rejected, or hired.
+HR personnel can add notes and comments to application records.
+
+
+4 Interview Scheduling
+HR personnel can schedule interviews and assign interviewers.
+The system should send interview notifications to candidates with details such as date, time, and location.
+HR personnel can view and manage the interview schedule.
+
+5 Reporting
+The system should provide pre-defined report templates.
+HR personnel can generate reports based on selected criteria, such as date range, department, or job type.
+
