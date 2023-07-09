@@ -34,5 +34,5 @@ HR personnel can view and manage the interview schedule.
 
 5 Reporting
 The system should provide pre-defined report templates.
-HR personnel can generate reports based on selected criteria, such as date range, department, or job type.
+HR personnel can generate reports based on selected criteria, such as date range, department, job type.
 
